@@ -33,3 +33,13 @@ There are two ways to implement a stack:
 
 * Using array
 * Using linked list
+
+## Queue
+A Queue is a linear data structure. The order is First In First Out (FIFO). It is just like stack data structure, in which 
+the first element is inserted from one end called the REAR(also called tail), and the removal of existing element takes 
+place from the other end called as FRONT(also called head).
+
+There are two ways to implement a stack:
+
+* Using array
+* Using linked list
